@@ -6,7 +6,7 @@ I build **scalable, maintainable and user-focused web applications**, with a str
 
 With **7+ years of experience**, I work primarily with modern frontend technologies and enjoy solving complex UI problems, improving application architecture, and turning ideas into useful products.
 
-**Core:** Angular · React · TypeScript · JavaScript · RxJS
+**Core:** Angular · React · TypeScript · JavaScript · RxJS · NgRx
 
 <p>
   <a href="https://www.linkedin.com/in/nilesh-kumar-rajbhar-045982103/">
@@ -25,9 +25,11 @@ With **7+ years of experience**, I work primarily with modern frontend technolog
 * 🅰️ **Angular Development** — enterprise applications, complex workflows and reusable components
 * ⚛️ **React Development** — modern web applications and component-driven UI
 * 📘 **TypeScript** — strongly typed and maintainable application code
-* 🔄 **Reactive Programming** — asynchronous data flows and state management with RxJS
+* 🔄 **Reactive Programming** — asynchronous data flows with RxJS
+* 🧠 **State Management** — NgRx and Redux for predictable application state
 * ⚡ **Performance** — optimizing rendering, application loading and user experience
-* 🔌 **API Integration** — building applications around REST APIs and backend services
+* 🔌 **API & Backend Integration** — REST APIs, Node.js and Express.js
+* 🚀 **CI/CD** — automated build, validation and deployment workflows
 * 📱 **Mobile Development** — exploring React Native and cross-platform application development
 
 ---
@@ -46,11 +48,13 @@ With **7+ years of experience**, I work primarily with modern frontend technolog
 ### State & Reactive Programming
 
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square\&logo=reactivex\&logoColor=white)
+![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=flat-square\&logo=ngrx\&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square\&logo=redux\&logoColor=white)
 
 ### Backend & Database
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square\&logo=express\&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square\&logo=nestjs\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
 
@@ -58,11 +62,13 @@ With **7+ years of experience**, I work primarily with modern frontend technolog
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
 
-### Tools
+### DevOps & CI/CD
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square\&logo=gitlab\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=github-actions\&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-555555?style=flat-square)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visual-studio-code\&logoColor=white)
 
 ---
@@ -86,14 +92,15 @@ A complete ecommerce platform covering the customer experience, administration a
 * Razorpay payment integration
 * REST API architecture
 * MongoDB data modelling
+* CI/CD and deployment workflows
 
 ---
 
 ### 📱 Fitness & Workout Tracker
 
-A mobile application concept focused on making workout tracking simple, consistent and useful.
+A mobile application focused on making workout tracking simple, consistent and useful.
 
-**Stack:** `React Native` · `Node.js` · `MongoDB`
+**Stack:** `React Native` · `Node.js` · `Express.js` · `MongoDB`
 
 **Exploring:**
 
@@ -103,6 +110,7 @@ A mobile application concept focused on making workout tracking simple, consiste
 * Progress tracking
 * Personal statistics
 * Authentication
+* REST API integration
 * Mobile-first UX
 
 ---
@@ -116,6 +124,7 @@ A collection of Angular projects and experiments focused on practical frontend e
 * Modern Angular patterns
 * Reactive Forms
 * RxJS
+* NgRx
 * Reusable components
 * Performance optimization
 * API integration
@@ -135,11 +144,15 @@ Frontend Engineering
         ↓
 Application Architecture
         ↓
-System Design
+State Management
         ↓
 Backend Architecture
         ↓
+System Design
+        ↓
 React Native
+        ↓
+CI/CD & Deployment
         ↓
 AI-assisted Development
 ```
@@ -151,9 +164,11 @@ AI-assisted Development
 * 🏗️ Scalable application architecture
 * ⚡ Web application performance
 * 🧩 Design systems & reusable components
+* 🧠 State management with NgRx
 * 📱 Cross-platform mobile development
 * 🔌 API & backend architecture
 * 🗄️ Database design
+* 🚀 CI/CD and deployment automation
 * 🤖 AI-assisted software development
 * 💡 Turning side-project ideas into real products
 
