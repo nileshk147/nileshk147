@@ -174,19 +174,23 @@ AI-assisted Development
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nileshk147&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nileshk147&layout=compact&hide_border=true&langs_count=8" height="165" />
-</p>
-
----
-
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nileshk147/nileshk147/output/github-contribution-grid-snake.svg" alt="GitHub contribution graph" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/nileshk147/nileshk147/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/nileshk147/nileshk147/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/nileshk147/nileshk147/output/github-contribution-grid-snake.svg"
+      alt="GitHub contribution snake"
+    />
+  </picture>
 </p>
 
 ---
